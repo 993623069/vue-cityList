@@ -1,0 +1,16 @@
+ 
+[
+	{"cityId":"001/01","name":"广州","target":"area"},
+	{"cityId":"002/01","name":"南宁","target":"area"},
+	{"cityId":"003/01","name":"福州","target":"area"},
+	{"cityId":"004/01","name":"杭州","target":"area"},
+	{"cityId":"005/01","name":"武汉","target":"area"},
+	{"cityId":"006/01","name":"郑州","target":"area"},
+	{"cityId":"007/01","name":"石家庄","target":"area"},
+	{"cityId":"008/01","name":"南昌","target":"area"},
+	{"cityId":"009/01","name":"南京","target":"area"},
+	{"cityId":"010/01","name":"合肥","target":"area"},
+	{"cityId":"011/01","name":"长沙","target":"area"},
+	{"cityId":"012/01","name":"太原","target":"area"}
+
+]
